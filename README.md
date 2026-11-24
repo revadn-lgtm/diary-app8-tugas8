@@ -10,43 +10,43 @@ Aplikasi ini memungkinkan pengguna untuk mencatat aktivitas sehari-hari, mengelo
 
 Halaman Home menampilkan daftar diary yang telah dibuat, statistik jumlah diary dan favorite, serta fitur filter berdasarkan mood.
 
-![Halaman Home](screenshots/home.png)
+![Halaman Home](screenshots/home.jpeg)
 
 ### 2. Halaman Tambah Diary
 
 Halaman ini digunakan untuk menambahkan catatan diary baru dengan mengisi judul, isi catatan, dan memilih mood.
 
-![Tambah Diary](screenshots/tambah.png)
+![Tambah Diary](screenshots/tambah.jpeg)
 
 ### 3. Halaman Detail Diary
 
 Halaman Detail menampilkan informasi lengkap dari diary yang dipilih, termasuk judul, tanggal, mood, dan isi catatan.
 
-![Detail Diary](screenshots/detail.png)
+![Detail Diary](screenshots/detail.jpeg)
 
 ### 4. Halaman Edit Diary
 
 Fitur Edit Diary digunakan untuk memperbarui judul, isi catatan, dan mood dari diary yang sudah dibuat.
 
-![Edit Diary](screenshots/edit.png)
+![Edit Diary](screenshots/edit.jpeg)
 
 ### 5. Halaman Favorite
 
 Halaman Favorite menampilkan daftar diary yang telah ditandai sebagai favorit. Pengguna juga dapat menghapus semua tanda favorite sekaligus.
 
-![Halaman Favorite](screenshots/favorite.png)
+![Halaman Favorite](screenshots/favorite.jpeg)
 
 ### 6. Validasi Input
 
 Aplikasi memiliki validasi judul dengan ketentuan minimal tiga karakter. Judul yang tidak memenuhi ketentuan akan ditolak dan menampilkan pesan peringatan.
 
-![Validasi Judul](screenshots/validasi.png)
+![Validasi Judul](screenshots/validasi.jpeg)
 
 ### 7. Empty State
 
 Aplikasi menampilkan pesan informatif ketika belum terdapat diary atau diary favorit. Pesan juga ditampilkan ketika tidak ditemukan diary berdasarkan mood yang dipilih.
 
-![Empty State](screenshots/empty-state.png)
+![Empty State](screenshots/empty-state.jpeg)
 
 ## ✨ Fitur Aplikasi
 
@@ -163,49 +163,6 @@ Aplikasi Buku Harian (Diary App) merupakan aplikasi mobile yang dikembangkan men
 
 Aplikasi ini memungkinkan pengguna untuk mencatat aktivitas sehari-hari, mengelola catatan diary, memilih mood, serta menyimpan catatan favorit.
 
-## 📱 Tampilan Aplikasi
-
-### 1. Halaman Home
-
-Halaman Home menampilkan daftar diary yang telah dibuat, statistik jumlah diary dan favorite, serta fitur filter berdasarkan mood.
-
-![Halaman Home](screenshots/home.jpeg)
-
-### 2. Halaman Tambah Diary
-
-Halaman ini digunakan untuk menambahkan catatan diary baru dengan mengisi judul, isi catatan, dan memilih mood.
-
-![Tambah Diary](screenshots/tambah.jpeg)
-
-### 3. Halaman Detail Diary
-
-Halaman Detail menampilkan informasi lengkap dari diary yang dipilih, termasuk judul, tanggal, mood, dan isi catatan.
-
-![Detail Diary](screenshots/detail.jpeg)
-
-### 4. Halaman Edit Diary
-
-Fitur Edit Diary digunakan untuk memperbarui judul, isi catatan, dan mood dari diary yang sudah dibuat.
-
-![Edit Diary](screenshots/edit.jpeg)
-
-### 5. Halaman Favorite
-
-Halaman Favorite menampilkan daftar diary yang telah ditandai sebagai favorit. Pengguna juga dapat menghapus semua tanda favorite sekaligus.
-
-![Favorite](screenshots/favorite.jpeg)
-
-### 6. Validasi Input
-
-Aplikasi memiliki validasi judul dengan ketentuan minimal tiga karakter. Judul yang tidak memenuhi ketentuan akan ditolak dan menampilkan pesan peringatan.
-
-![Validasi Input](screenshots/validasi.jpeg)
-
-### 7. Empty State
-
-Aplikasi menampilkan pesan informatif ketika belum terdapat diary atau diary favorit. Pesan juga ditampilkan ketika tidak ditemukan diary berdasarkan mood yang dipilih.
-
-![Empty State](screenshots/empty-state.jpeg)
 
 
 ## 🔗 Repository
